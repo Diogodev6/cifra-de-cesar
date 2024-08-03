@@ -57,7 +57,7 @@ body {
 }
 
 .invisivel {
-    /* display: none; */
+    display: none;
 }
 
 #resposta {
